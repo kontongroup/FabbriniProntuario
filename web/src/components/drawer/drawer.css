@@ -1,0 +1,15 @@
+img {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+/*
+.MuiListItemText-primary {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+} */
